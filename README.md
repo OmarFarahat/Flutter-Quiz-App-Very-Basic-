@@ -1,7 +1,7 @@
 # quiz_application
 
-A new Flutter project.
-
+Android App for a short quiz application which is very basic,
+check other flutter apps in my GitHub
 ## Getting Started
 
 This project is a starting point for a Flutter application.
